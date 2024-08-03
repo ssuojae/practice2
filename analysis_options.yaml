@@ -1,0 +1,6 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - require_trailing_commas # 마지막 항목 뒤에 쉼표(,) 붙이기
+    - prefer_relative_imports # 모듈을 불러올 때 절대 경로 대신 상대 경로 사용
